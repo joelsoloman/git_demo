@@ -1,0 +1,14 @@
+# Hello world
+
+1 -> git init (Only once when creating the repo from scratch)
+
+            if you want to remove then delete the .git in the Directory
+
+# Status
+
+2 -> Git Status to check the status of the repo
+
+3 -> Git Add <filename> --- Adds the files for you to commit
+
+4 -> git commit -m "message" ---- commits the file
+
