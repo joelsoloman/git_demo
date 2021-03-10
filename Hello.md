@@ -12,3 +12,6 @@
 
 4 -> git commit -m "message" ---- commits the file
 
+# Tips
+
+git branch - shows current branch
