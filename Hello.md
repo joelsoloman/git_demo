@@ -18,8 +18,10 @@ git branch - shows current branch
 
 use . instead of <filename> to add everything
 
-git log - Gives the information of the commits
+git log --oneline --decorate - Gives the information of the commits
 
 git checkout -b add-files
 
 This helps in creating a new branch || dont use -b if not creating
+
+Making another change by editing and commiting again
