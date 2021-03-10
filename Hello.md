@@ -15,3 +15,5 @@
 # Tips
 
 git branch - shows current branch
+
+use . instead of <filename> to add everything
