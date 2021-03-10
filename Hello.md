@@ -25,3 +25,7 @@ git checkout -b add-files
 This helps in creating a new branch || dont use -b if not creating
 
 Making another change by editing and commiting again
+
+https://github.com/sanspace/git-demo
+from Santhosh Kumar Srinivasan to All Participants:
+https://gitimmersion.com/
